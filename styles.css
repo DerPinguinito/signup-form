@@ -183,7 +183,7 @@ button {
     
 }
 
-#button-div > a {
+#button-div > p > span > a {
     text-decoration: none;
     color: var(--dark-green)
 }
